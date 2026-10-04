@@ -1,0 +1,17 @@
+/.build/
+/packages/
+/.idea/
+/.vscode/
+/vendor/
+/node_modules/
+/coverage/
+/.phpunit.cache/
+/.phpunit.result.cache
+/.env
+/.env.*
+!/.env.example
+/config.core.php
+/core/config/
+.DS_Store
+Thumbs.db
+*.log

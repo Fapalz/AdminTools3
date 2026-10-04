@@ -1,0 +1,6 @@
+AdminTools3 1.0.0-pl
+====================
+- First stable release for MODX Revolution 3.
+- Add a package usage guide to the installer and display the package as AdminTools3
+  after installation.
+- Avoid a PHP warning when an anonymous visitor has no user profile.
